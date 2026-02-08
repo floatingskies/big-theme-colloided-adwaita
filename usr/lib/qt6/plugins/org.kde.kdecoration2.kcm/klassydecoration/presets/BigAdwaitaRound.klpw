@@ -1,5 +1,5 @@
 [Klassy Window Decoration Preset File]
-version=6.0.breeze6.0.2
+version=6.5.2
 
 [Windeco Preset BigAdwaitaRound]
 ActiveTitleBarOpacity=100
@@ -51,8 +51,6 @@ ButtonStateCheckedInactive=Press
 CloseButtonIconColorActive=AsSelected
 CloseButtonIconColorInactive=AsSelected
 CloseFullHeightButtonWidthMarginRelative=100
-ColorizeThinWindowOutlineWithButton=false
-CornerRadius=3.6
 DrawBackgroundGradient=false
 DrawBorderOnMaximizedWindows=false
 DrawTitleBarSeparator=false
@@ -74,8 +72,6 @@ LockCloseButtonBehaviourActive=true
 LockCloseButtonBehaviourInactive=true
 LockFullHeightButtonSpacingLeftRight=true
 LockFullHeightButtonWidthMargins=false
-LockThinWindowOutlineCustomColorActiveInactive=true
-LockThinWindowOutlineStyleActiveInactive=true
 LockTitleBarLeftRightMargins=true
 LockTitleBarTopBottomMargins=false
 NegativeCloseBackgroundHoverPressActive=false
@@ -90,7 +86,6 @@ PoorBackgroundContrastThresholdActive=1.1
 PoorBackgroundContrastThresholdInactive=1.1
 PoorIconContrastThresholdActive=1.5
 PoorIconContrastThresholdInactive=1.5
-RoundBottomCornersWhenNoBorders=false
 ScaleBackgroundPercent=150
 ShadowColor=0,0,0
 ShadowSize=ShadowMedium
@@ -132,11 +127,6 @@ ShowOutlineOnHoverInactive=true
 ShowOutlineOnPressActive=true
 ShowOutlineOnPressInactive=true
 SystemIconSize=SystemIcon16
-ThinWindowOutlineCustomColorActive=30,30,30
-ThinWindowOutlineCustomColorInactive=30,30,30
-ThinWindowOutlineStyleActive=WindowOutlineContrast
-ThinWindowOutlineStyleInactive=WindowOutlineContrast
-ThinWindowOutlineThickness=1
 TitleAlignment=AlignCenterFullWidth
 TitleBarBottomMargin=0.5
 TitleBarLeftMargin=3
